@@ -1,0 +1,45 @@
+{
+    "name": "Portal, Dashboard, Startup",
+    "title": "jQuery Dashboard",
+    "description": "jQuery plugin for Dashboard with Layout, user can add Forms, Presentation, Project Management widgets based on need",
+    "keywords": [
+        "Portal",
+        "Widgets",
+        "User Interface",
+        "Layout",
+        "Form Designer",
+        "Presentation Slideshow",
+        "Project Management",
+        "startup",
+        "dashboard"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "JQPortal",
+        "url": "https://portalfin.com"
+    },
+    "maintainers": [
+        {
+            "name": "JQPortal",
+            "email": "manish74.gupta@gmail.com",
+            "url": "http://jqportal.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "creativecommons",
+            "url": "http://creativecommons.org/licenses/by-nc/3.0/us/"
+        },
+         {
+	            "type": "creativecommons",
+	            "url": "http://creativecommons.org/licenses/by-nc/3.0/us/"
+        }
+    ],
+   
+    "homepage": "http://portalfin.com",
+    "docs": "http://jqportal.com",
+    "demo": "http://portalfin.com",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
