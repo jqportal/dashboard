@@ -1,6 +1,6 @@
 {
-    "name": "Dashboard",
-    "title": "jQuery Dashboard",
+    "name": "dashboard",
+    "title": "jQuery Dashboard Portal",
     "description": "jQuery plugin for Dashboard with Layout, user can add Forms, Presentation, Project Management widgets based on need",
     "keywords": [
         "Portal",
@@ -14,7 +14,7 @@
         "Slideshow",
         "dashboard"
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": {
         "name": "JQPortal",
         "url": "https://portalfin.com"
